@@ -17,7 +17,7 @@ In order to make manipulations in a stack,
 6. Size operation to calculate the size of data stored in the stack
 7. Display operation to display elements of the stack
 
-![Stack-660x566](https://github.com/AlaaAshraf111/Stack_Implementation_in_C/assets/99663447/53d3d3ff-3354-4823-8b30-008fb4665e6c)
+     ![Stack-660x566](https://github.com/AlaaAshraf111/Stack_Implementation_in_C/assets/99663447/53d3d3ff-3354-4823-8b30-008fb4665e6c)
 
 ## Types of Stacks
 - Fixed Size Stack (In this repository, it is implemented using an array)
@@ -28,4 +28,5 @@ In order to make manipulations in a stack,
   A dynamic size stack can grow or shrink dynamically. When the stack is full, it automatically
   increases its size to accommodate the new element, and when the stack is empty, it decreases
   its  size.
+
   In addition to these two main types, there are several other variations of Stacks.
